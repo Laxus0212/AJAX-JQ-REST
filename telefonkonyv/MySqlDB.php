@@ -12,8 +12,14 @@ class MySqlDB {
         $this->db_szerver = "localhost";
         $this->db_felhnev = "root";
         $this->db_jelszo = "";
-        $this->db_nev = "gyakorlo";
+        $this->db_nev = "telefonkonyvem";
         $this->kapcsolat();
+//               $this->db_szerver = "tanulo19.szf1a.oktatas.szamalk-szalezi.hu";
+//        $this->db_felhnev = "c1_tanulo19szf1a";
+//        $this->db_jelszo = "_tanulo19szf1a";
+//        $this->db_nev = "c1ABtanulo19szf1a";
+//        $this->kapcsolat();
+        
     }
 
 
